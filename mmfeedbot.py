@@ -127,12 +127,8 @@ class Tweetbot:
 		"queryfeed":"https://queryfeed.net/tw?q=%40arxivtimes"},
     	{"twitrss":"http://twitrss.me/twitter_user_to_rss/?user=A_I_News",
     	"queryfeed":"https://queryfeed.net/tw?q=%40A_I_News"},
-    	{"twitrss":"http://twitrss.me/twitter_user_to_rss/?user=news_aperza",
-    	"queryfeed":"https://queryfeed.net/tw?q=%40news_aperza"},
 		{"twitrss":"http://twitrss.me/twitter_user_to_rss/?user=AI_m_lab",
 		"queryfeed":"https://queryfeed.net/tw?q=%40AI_m_lab"},
-		{"twitrss":"http://twitrss.me/twitter_user_to_rss/?user=camcad",
-		"queryfeed":"https://queryfeed.net/tw?q=%40camcad"}
 		]
 		return urls
 
